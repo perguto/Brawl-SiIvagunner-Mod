@@ -27,7 +27,7 @@ In Dolphin:
 
 To use this mod with Project M or Project +, you only have to set the above `main.dol` file as your Default iso. You can do this by opening your Project M/+ Dolphin, clicking on "Config", then "Paths" and entering the path to your `main.dol` under "Default ISO".
 
-![](./extract_disc.png)
+![](./default_iso.png)
 
 # Unimportant Aside: Rebuilding a patched file
 
