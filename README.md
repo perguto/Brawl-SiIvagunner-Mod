@@ -26,9 +26,10 @@ In Dolphin:
 
 
 To use this mod with Project M or Project +, you only have to set the above `main.dol` file as your Default iso. You can do this by opening your Project M/+ Dolphin, clicking on "Config", then "Paths" and entering the path to your `main.dol` under "Default ISO".
-<--
-# Aside: Rebuilding a patched file
+
+![](./extract_disc.png)
+
+# Unimportant Aside: Rebuilding a patched file
 
 You can also turn the extracted folder back into a .iso or .wbfs file. You can do this by downloading wit (https://wit.wiimm.de/download/wit-v3.04a-r8427-cygwin64.zip) and unzipping it, say, to `%home%\wit`, then open the command prompt by pressing Win + R, and type `%home%\wit\wit.exe copy "PATH OF EXTRACTED BRAWL FOLDER" brawl_siivagunner`. Now you get a wbfs file you can put in the same folder as your normal ssbb iso and select set it as the default iso in Ishiiruka.
 
--->
